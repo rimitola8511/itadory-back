@@ -1,0 +1,19 @@
+{
+  "name": "itadory-back",
+  "version": "1.0.0",
+  "description": "Node backend to manage inventory",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimitola8511/itadory-back.git"
+  },
+  "author": "Ricardo Imitola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimitola8511/itadory-back/issues"
+  },
+  "homepage": "https://github.com/rimitola8511/itadory-back#readme"
+}
